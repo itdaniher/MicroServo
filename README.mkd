@@ -16,4 +16,4 @@ As these servos are plentiful, common, and cheap, they make idea actuators for s
 
 *	The 5k potentiometer can be replaced nicely with a pair of 2.2k resistors. I'm using 0805 SMD resistors from an ebay'ed resistor kit. Your mileage may vary. 
 
-*		The 2.2k resistors yield a normal position with a 1440uS pulse width.
+**	The 2.2k resistors yield a normal position with a 1440uS pulse width.
