@@ -6,14 +6,11 @@ The HXT900 / SG90 is a tiny 9g hobby servo available very nearly everywhere. I b
 
 As these servos are plentiful, common, and cheap, they make idea actuators for small-scale robotic projects. They also make great pedalogical tools for teaching neophytes a bit about the way the world works.
 
-*	The servos contain an ASIC(Application-Specific Integrated Circuit) sold by a vendor unknown to most US engineers.
-
-*	My HXT900 servos from Hobby King are built nearly verbatim from the reference design contained in the datasheet.
-
-*	The servos are marked "Hextronik" on the outside, but "Tower Pro" on the inside. One manufacturer, at least two vendors.
+ *	The servos contain an ASIC(Application-Specific Integrated Circuit) sold by a vendor unknown to most US engineers.
+ *	My HXT900 servos from Hobby King are built nearly verbatim from the reference design contained in the datasheet.
+ *	The servos are marked "Hextronik" on the outside, but "Tower Pro" on the inside. One manufacturer, at least two vendors.
 
 ##Misc Notes
 
-*	The 5k potentiometer can be replaced nicely with a pair of 2.2k resistors. I'm using 0805 SMD resistors from an ebay'ed resistor kit. Your mileage may vary. 
-
-**	The 2.2k resistors yield a normal position with a 1440uS pulse width.
+ *	The 5k potentiometer can be replaced nicely with a pair of 2.2k resistors. I'm using 0805 SMD resistors from an ebay'ed resistor kit. Your mileage may vary. 
+ 	*	The 2.2k resistors yield a normal position with a 1440uS pulse width.
