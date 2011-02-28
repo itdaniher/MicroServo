@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="624.99994"
+   height="362.14285"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   inkscape:export-filename="/home/it/projects/MicroServo/modify.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3172"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3243"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4041"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="486.65774"
+     inkscape:cy="127.2564"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="825"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-24.714288,-149.21932)">
+    <g
+       id="g4068"
+       inkscape:export-filename="/home/it/projects/MicroServo/modify.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g4064">
+        <image
+           y="121.57647"
+           x="27.214289"
+           id="image3174"
+           height="393"
+           width="297"
+           xlink:href="file:///home/it/projects/MicroServo/Pics/FreshPot.jpg" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ff0000;fill-opacity:0;stroke:#f30000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path3249"
+           sodipodi:cx="178.57143"
+           sodipodi:cy="333.79074"
+           sodipodi:rx="44.285713"
+           sodipodi:ry="22.857145"
+           d="m 222.85714,333.79074 c 0,12.62365 -19.82739,22.85715 -44.28571,22.85715 -24.45833,0 -44.28572,-10.2335 -44.28572,-22.85715 0,-12.62365 19.82739,-22.85714 44.28572,-22.85714 24.45832,0 44.28571,10.23349 44.28571,22.85714 z" />
+      </g>
+      <g
+         id="g4060">
+        <image
+           y="147.64789"
+           x="323.92856"
+           id="image3245"
+           height="378"
+           width="321"
+           xlink:href="file:///home/it/projects/MicroServo/Pics/TrimmedPot.jpg" />
+        <path
+           d="m 222.85714,333.79074 c 0,12.62365 -19.82739,22.85715 -44.28571,22.85715 -24.45833,0 -44.28572,-10.2335 -44.28572,-22.85715 0,-12.62365 19.82739,-22.85714 44.28572,-22.85714 24.45832,0 44.28571,10.23349 44.28571,22.85714 z"
+           sodipodi:ry="22.857145"
+           sodipodi:rx="44.285713"
+           sodipodi:cy="333.79074"
+           sodipodi:cx="178.57143"
+           id="path4023"
+           style="fill:#ff0000;fill-opacity:0;stroke:#f30000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           sodipodi:type="arc"
+           transform="translate(304.28571,15.714286)" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="28.64286"
+       y="178.86218"
+       id="text4025"><tspan
+         sodipodi:role="line"
+         id="tspan4027"
+         x="28.64286"
+         y="178.86218"
+         style="font-size:24px">Plastic nubs block full rotation.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="258.00363"
+       y="433.52371"
+       id="text4025-6"><tspan
+         sodipodi:role="line"
+         id="tspan4027-0"
+         x="258.00363"
+         y="433.52371"
+         style="font-size:24px;fill:#ffffff;fill-opacity:1">These plastic nubs are brittle </tspan><tspan
+         sodipodi:role="line"
+         x="258.00363"
+         y="463.52371"
+         style="font-size:24px;fill:#ffffff;fill-opacity:1"
+         id="tspan4058">and pop off with an small blade.</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke:#f30000;stroke-width:4.90394258;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4080"
+       width="620.09601"
+       height="357.23892"
+       x="27.16626"
+       y="151.6713" />
+  </g>
+</svg>
